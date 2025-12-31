@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Obayed Sarker</h1>
 <h3 align="center">Building scalable web applications with clean code and problem-solving skills</h3>
 
-<p align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" alt="obayed324" />
-</p>
-
 ---
 
 <!-- Layout table: Left = Text, Right = Coding GIF -->
@@ -73,13 +69,4 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obayed324&show_icons=true&locale=en&layout=compact" alt="obayed324" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obayed324&show_icons=true&locale=en" alt="obayed324" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obayed324&" alt="obayed324" /></p>
 
