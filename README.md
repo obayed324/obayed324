@@ -3,14 +3,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Obayed Sarker</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;C%23+%7C+MERN+Stack+Enthusiast;Clean+Code+%7C+Problem+Solver;Building+Real-World+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;C%23+%7C+MERN+Stack+Enthusiast;Clean+Code+%7C+Problem+Solver;Building+Real-World+Applications;Always+Learning+%26+Improving" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-obayed-sarkar/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://www.leetcode.com/msarker222194">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
@@ -22,9 +21,9 @@
 ---
 
 ## ✨ About Me
-🚀 Passionate **Full Stack Web Developer** focused on building scalable and impactful applications.  
-🧠 Strong believer in **clean code, problem-solving, and continuous learning**.  
-💡 I learn best by **building real projects**, not just watching tutorials.
+🚀 Passionate **Full Stack Web Developer** focused on building scalable and impactful applications  
+🧠 Strong believer in **clean code, problem-solving, and continuous learning**  
+💡 I learn best by **building real-world projects**, not just watching tutorials  
 
 ---
 
@@ -80,6 +79,31 @@
 
 ---
 
+<h2 align="center">🔥 GitHub Streak & Contributions</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=obayed324&theme=github-dark&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=obayed324&show_icons=true&count_private=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+
+
+> ⭐ This section shows:
+> - ✅ **Total Contributions**
+> - 🔥 **Current Contribution Streak**
+> - 🏆 **Longest Streak**
+
+---
+
 ## 🏆 Highlights
 - ✔ Strong foundation in **C, C++, C#**
 - ✔ Hands-on experience with **Full Stack projects**
@@ -95,4 +119,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=obayed324&label=Profile%20Views&color=blueviolet&style=flat-square"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=100&section=footer"/>
 </p>
