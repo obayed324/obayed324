@@ -18,55 +18,61 @@
   </a>
 </p>
 
----
-
-## ✨ About Me
-🚀 Passionate **Full Stack Web Developer** focused on building scalable and impactful applications  
-🧠 Strong believer in **clean code, problem-solving, and continuous learning**  
-💡 I learn best by **building real-world projects**, not just watching tutorials  
-
----
-
-## 🔭 What I’m Currently Doing
-- 🌱 Exploring **Next.js & modern frontend patterns**
-- 🏗 Building a **full-stack shifting management system**
-- 🧠 Practicing **DSA & problem solving** on LeetCode
-- ⚙ Strengthening backend with **C#, ASP.NET & Node.js**
-
----
-
-## 🌐 Portfolio
-🔗 **https://obayed-eportfolio.netlify.app**
-
----
-
-## 🛠 Tech Stack
-
-### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
-### 🧩 Backend
+<h2 align="center">✨ About Me</h2>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,cs" />
+  🚀 Passionate <b>Full Stack Web Developer</b> building scalable applications<br/>
+  🧠 Clean Code • Problem Solving • Continuous Learning<br/>
+  💡 I learn best by building real-world projects
 </p>
 
-### 🗄 Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
+<h2 align="center">🔭 What I’m Currently Doing</h2>
+
+<p align="center">
+  🌱 Exploring <b>Next.js & modern frontend patterns</b><br/>
+  🏗 Building a <b>full-stack shifting management system</b><br/>
+  🧠 Practicing <b>DSA & problem solving</b> on LeetCode<br/>
+  ⚙ Strengthening backend with <b>C#, ASP.NET & Node.js</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
+<h2 align="center">🌐 Portfolio</h2>
+
+<p align="center">
+  🔗 <a href="https://obayed-eportfolio.netlify.app"><b>https://obayed-eportfolio.netlify.app</b></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
+<h2 align="center">🛠 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,cs,mongodb,git,figma,c,cpp&perline=7" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48"/>
 </p>
 
-### ⚙ Tools & Others
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,figma,c,cpp" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
----
-
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obayed324&theme=github_dark" />
@@ -77,50 +83,54 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=obayed324&theme=github_dark" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
-<h2 align="center">🔥 GitHub Streak & Contributions</h2>
+<h2 align="center">🔥 GitHub Activity & Contributions</h2>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=obayed324&theme=github-dark&hide_border=true"
-    alt="GitHub Streak Stats"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=obayed324&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=obayed324&show_icons=true&count_private=true&theme=github_dark&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=obayed324&theme=github_dark&utcOffset=6" />
 </p>
 
+<p align="center">
+  ⭐ Shows Total Contributions • Consistency • Activity Time
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
-> ⭐ This section shows:
-> - ✅ **Total Contributions**
-> - 🔥 **Current Contribution Streak**
-> - 🏆 **Longest Streak**
+<h2 align="center">🏆 GitHub Achievements</h2>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=obayed324&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
 
-## 🏆 Highlights
-- ✔ Strong foundation in **C, C++, C#**
-- ✔ Hands-on experience with **Full Stack projects**
-- ✔ Comfortable with **REST APIs & Databases**
-- ✔ Team collaboration & real-world problem solving
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
----
+<h2 align="center">🐍 Contribution Graph</h2>
 
-## ⚡ Fun Fact
-💥 *I don’t just learn technologies — I build with them.*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
----
+<h2 align="center">⚡ Fun Fact</h2>
+
+<p align="center">
+  💥 <i>I don’t just learn technologies — I build with them.</i>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=obayed324&label=Profile%20Views&color=blueviolet&style=flat-square"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:7F00FF,100:00C9FF&height=120&section=footer&animation=fadeIn"/>
 </p>
