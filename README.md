@@ -105,16 +105,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=obayed324&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
-
 <h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
